@@ -2,7 +2,7 @@
 # Student: Chris Williford
 # Instructor: Tracy Lanham
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+// Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 Chat Away is a social media company that has a successful website and is now seeking to develop a mobile app. To market their product to a larger customer base and increase revenue, they are looking to create a mobile app that is used for iPhone and Android smartphones that will be made available to both users in the app stores.
 
 What did you do particularly well in developing this documentation?
