@@ -1,1 +1,1 @@
-# The-Gaming-Room
+# SNHU-CS-230
